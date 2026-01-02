@@ -1,3 +1,10 @@
+## How to Run
+python password_strength_checker.py
+
+## Developed By
+Atmakuri Ashish  
+BCA – Sri Sri University
+
 <div align="center">
     <a href="https://go.warp.dev/seclists" target="_blank">
         <sup>Special thanks to:</sup>
