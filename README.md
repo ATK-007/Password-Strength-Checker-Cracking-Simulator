@@ -1,5 +1,9 @@
 ## How to Run
-python password_strength_checker.py
+1. Install Python 3
+2. Clone the repository
+3. Open terminal in project folder
+4. Run:
+   python password_strength_checker.py
 
 ## Developed By
 Atmakuri Ashish  
